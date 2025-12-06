@@ -12,8 +12,8 @@ documentation:
 ---
 
 cmd:
-g++ raycasting.cpp -o game.exe -lgdi32
+- g++ raycasting.cpp -o game.exe -lgdi32
 or if you prefer without console:
-g++ raycasting.cpp -o game.exe -lgdi32 -mwindows
+- g++ raycasting.cpp -o game.exe -lgdi32 -mwindows
 
 ---
