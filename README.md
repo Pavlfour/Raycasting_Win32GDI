@@ -11,9 +11,10 @@ documentation:
 
 ---
 
-cmd:
+
+```bash:
 - g++ raycasting.cpp -o game.exe -lgdi32
 or if you prefer without console:
 - g++ raycasting.cpp -o game.exe -lgdi32 -mwindows
-
+```
 ---
